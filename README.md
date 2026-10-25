@@ -1,7 +1,7 @@
 
 # Heart Disease Prediction Using Machine Learning
 
-A Python-based machine learning project that predicts the presence of heart disease from patient health, lifestyle, and clinical features using Logistic Regression.
+A Python-based machine learning project that predicts the presence of heart disease from patient health, lifestyle and clinical features using Logistic Regression.
 
 ## Project Overview
 
